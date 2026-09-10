@@ -1,0 +1,3 @@
+algorithms
+flowcharts
+dry run - how a system executes a program, able to show on paper
